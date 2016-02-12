@@ -1,0 +1,651 @@
+{
+act = goodsdesc;
+attr =     {
+"attr_1" =         (
+{
+"attr_id" = 163;
+"attr_image" = "";
+"attr_name" = "\U9ed1\U8272";
+"attr_price" = 0;
+"attr_price_format" = "\Uffe50\U5143";
+}
+);
+"attr_1_2" =         {
+"attr_limit_num_163_0" = 100;
+"attr_price_163_0" = 3010;
+"attr_price_163_0_format" = "\Uffe53010\U5143";
+"attr_score_163_0" = 0;
+};
+"attr_title_1" = "\U989c\U8272";
+"has_attr_1" = 1;
+"has_attr_2" = 0;
+"selected_attr_1" = 0;
+};
+"big_gallery" =     (
+"http://112.74.105.205/upload/mapi/images/cc/32_P_1242110760641_300x300.jpg"
+);
+"buy_count" = 0;
+"change_cart_request_server" = 1;
+"city_name" = "";
+"cur_price" = 3010;
+"cur_price_format" = "\Uffe53010\U5143";
+discount = 0;
+"end_date" = 1417276800;
+gallery =     (
+"http://112.74.105.205/upload/mapi/images/cc/32_P_1242110760641_320x320.jpg"
+);
+"goods_brief" = "";
+"goods_desc" = "<p>\U8bfa\U57fa\U4e9aN85\U53c2\U6570</p>
+\n<div>&nbsp;</div>
+\n<div>
+\n<table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n    <tbody>
+\n        <tr>
+\n            <td bgcolor=\"#f1f7fc\" colspan=\"2\">
+\n            <p><b>\U57fa\U672c\U53c2\U6570</b></p>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U624b\U673a\U6635\U79f0</td>
+\n            <td  bgcolor=\"#ffffff\">N85</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U4e0a\U5e02\U65e5\U671f</td>
+\n            <td  bgcolor=\"#ffffff\">2008\U5e7410\U6708</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U624b\U673a\U7c7b\U578b</td>
+\n            <td  bgcolor=\"#ffffff\">3G\U624b\U673a\Uff1b\U62cd\U7167\U624b\U673a\Uff1b\U667a\U80fd\U624b\U673a</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U624b\U673a\U5236\U5f0f</td>
+\n            <td  bgcolor=\"#ffffff\">GSM</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U652f\U6301\U9891\U6bb5</td>
+\n            <td  bgcolor=\"#ffffff\">GSM850/900/1800/1900MHz</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U6570\U636e\U4f20\U8f93</td>
+\n            <td  bgcolor=\"#ffffff\">GPRS\U3001EDGE</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U5c4f\U5e55\U6750\U8d28</td>
+\n            <td  bgcolor=\"#ffffff\">AMOLED</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U5c4f\U5e55\U8272\U5f69</td>
+\n            <td  bgcolor=\"#ffffff\">1600\U4e07\U8272</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U4e3b\U5c4f\U5c3a\U5bf8</td>
+\n            <td  bgcolor=\"#ffffff\">2.6\U82f1\U5bf8</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U4e3b\U5c4f\U53c2\U6570</td>
+\n            <td  bgcolor=\"#ffffff\">QVGA 320&times;240\U50cf\U7d20</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U94c3\U97f3\U63cf\U8ff0</td>
+\n            <td  bgcolor=\"#ffffff\">\U53ef\U9009MP3\U3001WAV\U3001AAC\U6216\U548c\U5f26Midi\U94c3\U58f0\U7b49\U683c\U5f0f</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U64cd\U4f5c\U7cfb\U7edf</td>
+\n            <td  bgcolor=\"#ffffff\">Symbian OS v9.3\U64cd\U4f5c\U7cfb\U7edf\U4e0eS60 v3.2\U5e73\U53f0\U7684\U7ec4\U5408</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U673a\U8eab\U5185\U5b58</td>
+\n            <td  bgcolor=\"#ffffff\">74MB \U5185\U90e8\U52a8\U6001\U5b58\U50a8\U7a7a\U95f4<br />
+\n            78MB \U5185\U7f6eNAND\U95ea\U5b58</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U5b58\U50a8\U5361</td>
+\n            <td  bgcolor=\"#ffffff\">\U652f\U6301MicroSD(T-Flash)\U5361\U6269\U5c55\U6700\U5927\U81f38GB</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U7535\U6c60\U89c4\U683c</td>
+\n            <td  bgcolor=\"#ffffff\">1200\U6beb\U5b89\U65f6\U9502\U7535\U6c60</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U6807\U914d</td>
+\n            <td  bgcolor=\"#ffffff\">\U8bfa\U57fa\U4e9a N85<br />
+\n            \U8bfa\U57fa\U4e9a\U7535\U6c60\Uff08BL-5K\Uff09<br />
+\n            \U8bfa\U57fa\U4e9a\U65c5\U884c\U5145\U7535\U5668\Uff08AC-10\Uff09<br />
+\n            \U8bfa\U57fa\U4e9a\U89c6\U9891\U6570\U636e\U7ebf\Uff08CA-75U\Uff09<br />
+\n            \U8bfa\U57fa\U4e9a\U6570\U636e\U7ebf\Uff08CA-101\Uff09<br />
+\n            \U8bfa\U57fa\U4e9a\U97f3\U4e50\U8033\U673a\Uff08HS-45\U3001AD-54\Uff09<br />
+\n            \U8bfa\U57fa\U4e9a 8 GB microSD \U5361\Uff08MU-43\Uff09<br />
+\n            \U300a\U7528\U6237\U624b\U518c\U300b<br />
+\n            \U300a\U5feb\U901f\U5165\U95e8\U300b</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U7406\U8bba\U901a\U8bdd\U65f6\U95f4</td>
+\n            <td  bgcolor=\"#ffffff\">6.9 \U5c0f\U65f6</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U7406\U8bba\U5f85\U673a\U65f6\U95f4</td>
+\n            <td  bgcolor=\"#ffffff\">363 \U5c0f\U65f6</td>
+\n        </tr>
+\n        <tr>
+\n            <td bgcolor=\"#f1f7fc\" colspan=\"2\">
+\n            <p><b>\U4ea7\U54c1\U5916\U5f62</b></p>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U5916\U89c2\U8bbe\U8ba1</td>
+\n            <td  bgcolor=\"#ffffff\">\U53cc\U5411\U6ed1\U76d6</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U4ea7\U54c1\U5c3a\U5bf8</td>
+\n            <td  bgcolor=\"#ffffff\">103&times;50&times;16mm<br />
+\n            \U4f53\U79ef\Uff1a76 \U7acb\U65b9\U5398\U7c73</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U624b\U673a\U91cd\U91cf</td>
+\n            <td  bgcolor=\"#ffffff\">128\U514b</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U4ea7\U54c1\U5929\U7ebf</td>
+\n            <td  bgcolor=\"#ffffff\">\U5185\U7f6e</td>
+\n        </tr>
+\n        <tr>
+\n            <td bgcolor=\"#f1f7fc\" colspan=\"2\">
+\n            <p><b>\U62cd\U7167\U529f\U80fd</b></p>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\" style=\"padding: 8px 0px;\" colspan=\"2\">
+\n            <table cellspacing=\"1\" cellpadding=\"0\" border=\"0\" align=\"left\">
+\n                <tbody>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U5b9a\U65f6\U5668</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">&nbsp;</td>
+\n                    </tr>
+\n                </tbody>
+\n            </table>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U6444\U50cf\U5934</td>
+\n            <td  bgcolor=\"#ffffff\">\U5185\U7f6e</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U6444\U50cf\U5934\U50cf\U7d20</td>
+\n            <td  bgcolor=\"#ffffff\">500\U4e07\U50cf\U7d20</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U8fde\U62cd\U529f\U80fd</td>
+\n            <td  bgcolor=\"#ffffff\">\U652f\U6301</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">LED\U95ea\U5149\U706f</td>
+\n            <td  bgcolor=\"#ffffff\">\U53ccLED \U95ea\U5149\U706f</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U6570\U7801\U53d8\U7126</td>
+\n            <td  bgcolor=\"#ffffff\">20 \U500d\U6570\U7801\U53d8\U7126</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U62cd\U6444\U6a21\U5f0f</td>
+\n            <td  bgcolor=\"#ffffff\">\U9759\U6b62\U3001\U8fde\U62cd\U3001\U81ea\U52a8\U5b9a\U65f6\U5668\U3001\U6444\U50cf</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U7167\U7247\U7279\U6548</td>
+\n            <td  bgcolor=\"#ffffff\">\U6b63\U5e38\U3001\U6000\U65e7\U3001\U9ed1\U767d\U3001\U8d1f\U7247\U3001\U903c\U771f</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U62cd\U7167\U63cf\U8ff0</td>
+\n            <td  bgcolor=\"#ffffff\">\U652f\U6301\U6700\U59272592&times;1944\U5206\U8fa8\U7387\U7167\U7247\U62cd\U6444<br />
+\n            \U652f\U6301JPEG\U3001Exif\U683c\U5f0f<br />
+\n            \U767d\U5e73\U8861\U6a21\U5f0f\Uff1a\U81ea\U52a8\U3001\U9633\U5149\U3001\U9634\U5929\U3001\U767d\U70bd\U706f\U3001\U8367\U5149\U706f<br />
+\n            \U611f\U5149\U5ea6\U6a21\U5f0f\Uff1a\U9ad8\U3001\U4e2d\U3001\U4f4e\U3001\U81ea\U52a8</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U89c6\U9891\U62cd\U6444</td>
+\n            <td  bgcolor=\"#ffffff\">\U6700\U9ad8\U652f\U6301640 x 480 \U50cf\U7d20\Uff08VGA\Uff09\U300130 \U5e27/\U79d2</td>
+\n        </tr>
+\n        <tr>
+\n            <td bgcolor=\"#f1f7fc\" colspan=\"2\">
+\n            <p><b>\U5a31\U4e50\U529f\U80fd</b></p>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\" style=\"padding: 8px 0px;\" colspan=\"2\">
+\n            <table cellspacing=\"1\" cellpadding=\"0\" border=\"0\" align=\"left\">
+\n                <tbody>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U6536\U97f3\U673a</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">TV-OUT</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U5f55\U97f3\U529f\U80fd</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U7535\U5b50\U4e66</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">&nbsp;</td>
+\n                    </tr>
+\n                </tbody>
+\n            </table>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U89c6\U9891\U64ad\U653e</td>
+\n            <td  bgcolor=\"#ffffff\">\U5185\U7f6eRealPlayer\U64ad\U653e\U5668, \U652f\U6301MPEG4\U3001H.264/AVC\U3001H.263/3GP\U3001RealVideo\U7b49\U89c6\U9891\U683c\U5f0f\U5168\U5c4f\U64ad\U653e</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U97f3\U4e50\U64ad\U653e</td>
+\n            <td  bgcolor=\"#ffffff\">\U5185\U7f6e\U64ad\U653e\U5668, \U652f\U6301mp3\U3001.wma\U3001.aac\U3001eAAC\U3001eAAC+\U683c\U5f0f</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U6e38\U620f</td>
+\n            <td  bgcolor=\"#ffffff\">\U5185\U7f6e</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">Java\U529f\U80fd</td>
+\n            <td  bgcolor=\"#ffffff\">\U652f\U6301Java MIDP 2.0 CLDC 1.1</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">Flash\U529f\U80fd</td>
+\n            <td  bgcolor=\"#ffffff\">\U7b2c3.0\U7248Flash lite\U64ad\U653e\U5668</td>
+\n        </tr>
+\n        <tr>
+\n            <td bgcolor=\"#f1f7fc\" colspan=\"2\">
+\n            <p><b>\U6570\U636e\U529f\U80fd</b></p>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\" style=\"padding: 8px 0px;\" colspan=\"2\">
+\n            <table cellspacing=\"1\" cellpadding=\"0\" border=\"0\" align=\"left\">
+\n                <tbody>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U84dd\U7259\U529f\U80fd</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">&nbsp;</td>
+\n                    </tr>
+\n                </tbody>
+\n            </table>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U6570\U636e\U7ebf\U63a5\U53e3</td>
+\n            <td  bgcolor=\"#ffffff\">USB\U6570\U636e\U7ebf 3.5mm\U7acb\U4f53\U58f0\U8033\U673a\U63d2\U5b54</td>
+\n        </tr>
+\n        <tr>
+\n            <td bgcolor=\"#f1f7fc\" colspan=\"2\">
+\n            <p><b>\U57fa\U672c\U529f\U80fd</b></p>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\" style=\"padding: 8px 0px;\" colspan=\"2\">
+\n            <table cellspacing=\"1\" cellpadding=\"0\" border=\"0\" align=\"left\">
+\n                <tbody>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U77ed\U4fe1(SMS)</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U5f69\U4fe1(MMS)</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U514d\U63d0\U901a\U8bdd</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U60c5\U666f\U6a21\U5f0f</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U95f9\U949f\U529f\U80fd</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                    </tr>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U65e5\U5386\U529f\U80fd</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">&nbsp;</td>
+\n                    </tr>
+\n                </tbody>
+\n            </table>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U8f93\U5165\U65b9\U5f0f</td>
+\n            <td  bgcolor=\"#ffffff\">\U952e\U76d8</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U901a\U8bdd\U8bb0\U5f55</td>
+\n            <td  bgcolor=\"#ffffff\">\U672a\U63a5\U6765\U7535+\U5df2\U63a5\U6765\U7535+\U5df2\U62e8\U7535\U8bdd\U8bb0\U5f55</td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\">\U901a\U8baf\U5f55</td>
+\n            <td  bgcolor=\"#ffffff\">S60\U6807\U51c6\U5316\U540d\U7247\U5f0f\U901a\U8baf\U5f55</td>
+\n        </tr>
+\n        <tr>
+\n            <td bgcolor=\"#f1f7fc\" colspan=\"2\">
+\n            <p><b>\U7f51\U7edc\U529f\U80fd</b></p>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\" style=\"padding: 8px 0px;\" colspan=\"2\">
+\n            <table cellspacing=\"1\" cellpadding=\"0\" border=\"0\" align=\"left\">
+\n                <tbody>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U7535\U5b50\U90ae\U4ef6</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">WWW\U6d4f\U89c8\U5668</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">WAP\U6d4f\U89c8\U5668</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">&nbsp;</td>
+\n                    </tr>
+\n                </tbody>
+\n            </table>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td bgcolor=\"#f1f7fc\" colspan=\"2\">
+\n            <p><b>\U5546\U52a1\U529f\U80fd</b></p>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\" style=\"padding: 8px 0px;\" colspan=\"2\">
+\n            <table cellspacing=\"1\" cellpadding=\"0\" border=\"0\" align=\"left\">
+\n                <tbody>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U98de\U884c\U6a21\U5f0f</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U8bed\U97f3\U62e8\U53f7</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U5907\U5fd8\U5f55</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U65e5\U7a0b\U8868</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U4e16\U754c\U65f6\U95f4</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                    </tr>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">&nbsp;</td>
+\n                    </tr>
+\n                </tbody>
+\n            </table>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td bgcolor=\"#f1f7fc\" colspan=\"2\">
+\n            <p><b>\U5176\U4ed6\U529f\U80fd</b></p>
+\n            </td>
+\n        </tr>
+\n        <tr>
+\n            <td  valign=\"center\" bgcolor=\"#ffffff\" align=\"left\" style=\"padding: 8px 0px;\" colspan=\"2\">
+\n            <table cellspacing=\"1\" cellpadding=\"0\" border=\"0\" align=\"left\">
+\n                <tbody>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">GPS\U529f\U80fd</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U7535\U5b50\U8bcd\U5178</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U5f85\U673a\U56fe\U7247</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U8ba1\U7b97\U5668</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U6765\U7535\U94c3\U58f0\U8bc6\U522b</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                    </tr>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U6765\U7535\U56fe\U7247\U8bc6\U522b</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U6765\U7535\U9632\U706b\U5899</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U52a8\U753b\U5c4f\U4fdd</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U56fe\U5f62\U83dc\U5355</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U79d2\U8868</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                    </tr>
+\n                    <tr>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\" bgcolor=\"#c5d7ed\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" bgcolor=\"#f1f7fc\" align=\"middle\" style=\"padding: 2px; font-weight: bold;\">\U5355\U4f4d\U6362\U7b97</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                        <td  style=\"padding: 5px 0px 5px 10px;\">
+\n                        <table width=\"100%\" cellspacing=\"1\" cellpadding=\"0\" border=\"0\">
+\n                            <tbody>
+\n                                <tr>
+\n                                    <td width=\"100%\" align=\"middle\" style=\"padding: 2px; float: none;\">&nbsp;</td>
+\n                                </tr>
+\n                            </tbody>
+\n                        </table>
+\n                        </td>
+\n                    </tr>
+\n                </tbody>
+\n            </table>
+\n            </td>
+\n        </tr>
+\n    </tbody>
+\n</table>
+\n</div>
+\n<p>&nbsp;</p>";
+"goods_id" = 32;
+"has_attr" = 1;
+"has_cart" = 1;
+"has_delivery" = 0;
+"has_mcod" = 0;
+image = "http://112.74.105.205/upload/mapi/images/c9/32_G_1242110760868_80x80.jpg";
+"less_time" = none;
+"limit_num" = 4;
+"num_unit" = "";
+"ori_price" = 3612;
+"ori_price_format" = "\Uffe53612\U5143";
+return = 1;
+"start_date" = 1243785600;
+title = "\U8bfa\U57fa\U4e9aN85";
+}

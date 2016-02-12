@@ -17,6 +17,18 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+    //跳过mainstory board直接加载某个指定类的内容
+    self.window = [[UIWindow alloc]initWithFrame:[UIScreen mainScreen].bounds];
+    [self.window setBackgroundColor:[UIColor whiteColor]];
+    
+    MyTabBarController* myTabBar = [[MyTabBarController alloc]init];
+    
+    [self.window setRootViewController:[myTabBar LoadTabBarAndNavComponents]];
+    [self.window makeKeyAndVisible];
+    
+    return YES;
+    
     return YES;
 }
 
